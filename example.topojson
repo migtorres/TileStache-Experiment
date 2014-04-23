@@ -1,0 +1,22 @@
+{
+
+    "objects": {
+        "vectile": {
+            "type": "GeometryCollection",
+            "geometries": [ ]
+        }
+    },
+    "type": "Topology",
+    "transform": {
+        "translate": [
+            -179.99999999999997,
+            -89.99075251648904
+        ],
+        "scale": [
+            0.3515624999999999,
+            0.0048238513053539545
+        ]
+    },
+    "arcs": [ ]
+
+}
